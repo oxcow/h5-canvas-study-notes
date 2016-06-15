@@ -25,4 +25,5 @@
    * [drawImage 方法](chapter5_drawimage.md)
    * [示例代码](chapter5_demo.md)
 * Canvas 颜色、 线型
+   * 色彩设置 ( Color )
 
