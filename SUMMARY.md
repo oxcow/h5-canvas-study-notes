@@ -15,4 +15,5 @@
    * 矩形 ( Rectangles )
    * 绘制路径 ( Drawing Paths )
 * Cnavas 图片处理
+   * 引入图片
 
