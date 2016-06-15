@@ -8,7 +8,7 @@
 * [Canvas 坐标系](chapter3_canvas_zuo_biao_xi.md)
    * [translate 方法（移动）](chapter3_translate_func.md)
    * [scale 方法（缩放）](chapter3_scale_func.md)
-   * rotate 方法（旋转）
+   * [rotate 方法（旋转）](chapter3_rotate_func.md)
    * transform 方法（变形）
    * 示例代码
 
