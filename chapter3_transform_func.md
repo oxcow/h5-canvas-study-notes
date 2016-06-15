@@ -30,7 +30,7 @@ $$\begin{bmatrix} x\\y \end{bmatrix} =  \begin{bmatrix}x&m11&m12\\y&m21&m22 \end
         ctx.restore();
     }
 
-效果图： ![trans1](trans1.png)
+效果图： ![trans1](/images/trans1.png)
 
 首先我们在未变动坐标系时，在原点处绘制一个长宽各为 50 的矩形（红色部分）；那么此时该矩形的四个角的顶点坐标为(0,0)、(0,50)、(50,0)、(50,50)；
 
@@ -44,7 +44,7 @@ $$\begin{bmatrix} x\\y \end{bmatrix} =  \begin{bmatrix}x&m11&m12\\y&m21&m22 \end
 
     ctx.transform(1, 0 , 1, 1 , 60, 60)
     
-那么得到的图形将会如下： ![trans2](trans2.png)
+那么得到的图形将会如下： ![trans2](/images/trans2.png)
 
 通过上面可以看出，当 **m11** 和 **m22** 都为 1 时，通过改变 **m12** 和 **m21** 可以对图
 形进行 **Y** 方向和 **X** 方向上的**拉伸变形**，而当 **m12** 和 **m21** 不变时，对于 **m11** 和 **m22**
@@ -52,7 +52,7 @@ $$\begin{bmatrix} x\\y \end{bmatrix} =  \begin{bmatrix}x&m11&m12\\y&m21&m22 \end
 
     ctx.transform(3, 0 , 0, 2 , 60, 60)
 
-时得到下图：![trans3](trans3.png)
+时得到下图：![trans3](/images/trans3.png)
 
 矩形长变为原来的 3 倍，而宽为原来的 2 倍。此时相当于使用了 
 
@@ -67,7 +67,7 @@ $$\begin{bmatrix} x\\y \end{bmatrix} =  \begin{bmatrix}x&m11&m12\\y&m21&m22 \end
 
     ctx.transform(1, 0 , 0, 1 , 60, 60)
     
-那么得到的图形将会如下：![trans4](trans4.png)
+那么得到的图形将会如下：![trans4](/images/trans4.png)
 
 可见其跟使用 `ctx.translate(60, 60)`相同。如果我们的变形矩阵是$$\begin{bmatrix} -1&0\\0&-1 \end{bmatrix}$$ 那么将上面的示例代码中的
 
@@ -77,7 +77,7 @@ $$\begin{bmatrix} x\\y \end{bmatrix} =  \begin{bmatrix}x&m11&m12\\y&m21&m22 \end
 
     ctx.transform(-1, 0 , 0, -1 , 60, 60)
     
-那么得到的图形将会如下: ![trans5](trans5.png)
+那么得到的图形将会如下: ![trans5](/images/trans5.png)
 
 可见当为负单位矩阵时，其绘制区域是在坐标系的**第四象限**。
 
