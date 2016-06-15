@@ -10,5 +10,5 @@
    * [scale 方法（缩放）](chapter3_scale_func.md)
    * [rotate 方法（旋转）](chapter3_rotate_func.md)
    * [transform 方法（变形）](chapter3_transform_func.md)
-   * 示例代码
+   * [示例代码](chapter3_zuo_biao_xi_shi_li_dai_ma.md)
 
