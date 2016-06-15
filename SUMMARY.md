@@ -13,7 +13,7 @@
    * [示例代码](chapter3_zuo_biao_xi_shi_li_dai_ma.md)
 * Canvas 绘制图形
    * [矩形 ( Rectangles )](chapter4_rectangles.md)
-   * 绘制路径 ( Drawing Paths )
+   * [绘制路径 ( Drawing Paths )](chapter4_drawing_path.md)
 * Cnavas 图片处理
    * 引入图片
    * drawImage 方法
