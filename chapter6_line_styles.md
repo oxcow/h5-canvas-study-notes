@@ -65,43 +65,51 @@
 
 ## lineJoin 属性（ 线段连接点）
 
-lineJoin = type
+    lineJoin = type
+    
 设置两条线段的外侧边缘连接处的显示样子。 type = round | bevel | miter。默认 miter
-round : 圆弧连接。圆弧半径为线宽一半
-bevel : 直线连接。
-miter : 交叉连接。 交叉连接点受 miterLimit 属性影响
-示例：
-Code:
-function draw() {
-var ctx = document.getElementById('canvas').getContext('2d');
-var lineJoin = ['round','bevel','miter'];
-ctx.lineWidth = 10;
-for (i=0;i<lineJoin.length;i++){
-ctx.lineJoin = lineJoin[i];
-ctx.beginPath();
-ctx.moveTo(-5,5+i*40);
-ctx.lineTo(35,45+i*40);
-ctx.lineTo(75,5+i*40);
-ctx.lineTo(115,45+i*40);
-ctx.lineTo(155,5+i*40);
-ctx.stroke();
-}
-}
-Author： LeeYee Blog： http://leeyee.iteye.com/ http://blog.csdn.net/oxcow/
+
+    round : 圆弧连接。圆弧半径为线宽一半
+    bevel : 直线连接。
+    miter : 交叉连接。 交叉连接点受 miterLimit 属性影响
+
+### 示例：
+
+ 
+    function draw() {
+        var ctx = document.getElementById('canvas').getContext('2d');
+        var lineJoin = ['round','bevel','miter'];
+        ctx.lineWidth = 10;
+        for (i=0;i<lineJoin.length;i++){
+            ctx.lineJoin = lineJoin[i];
+            ctx.beginPath();
+            ctx.moveTo(-5,5+i*40);
+            ctx.lineTo(35,45+i*40);
+            ctx.lineTo(75,5+i*40);
+            ctx.lineTo(115,45+i*40);
+            ctx.lineTo(155,5+i*40);
+            ctx.stroke();
+          }
+      }
+
 效果图：
-miterLimit = value 线段外沿交点连接距离。线段夹角越小则 miter 所呈现的夹角外沿越
-大。当设置 miterLimit 的值小于原本自然的延伸交点时，呈现的结果将是 bevel。
-miterLimit 默认值是 0。
-Notes: 如果两条线段的自然外沿交点延伸值是 10，那么设置 miterLimit 为(0,10)， 将呈现
-bevel 效果都是一样的。 这个属性算是鸡肋，当需要 bevel 效果时，可以直接设置
-lineJoin = bevel
-示例：
-Code：
-var ctxd = document.getElementById('canvas').getContext('2d');
-ctxd.lineWidth = 15; // 设置线宽
-ctxd.miterLimit = 8;
-ctxd.moveTo(5,60);
-ctxd.lineTo(40,30);
-ctxd.lineTo(15,80)
-ctxd.stroke();
+
+![linejoin demo](/images/lineJoin_attr_demo.png)
+
+**miterLimit** = value 线段外沿交点连接距离。线段夹角越小则 miter 所呈现的夹角外沿越大。当设置 miterLimit 的值小于原本自然的延伸交点时，呈现的结果将是 **bevel**。
+
+miterLimit **默认值是 0**。
+
+> ***Notes:*** 如果两条线段的自然外沿交点延伸值是 10，那么设置 **miterLimit** 为(0,10)， 将呈现 **bevel** 效果都是一样的。 这个属性算是鸡肋，当需要 bevel 效果时，可以直接设置 **lineJoin = bevel**
+
+### 示例：
+
+    var ctxd = document.getElementById('canvas').getContext('2d');
+    ctxd.lineWidth = 15; // 设置线宽
+    ctxd.miterLimit = 8;
+    ctxd.moveTo(5,60);
+    ctxd.lineTo(40,30);
+    ctxd.lineTo(15,80)
+    ctxd.stroke();
+    
 效果图：
