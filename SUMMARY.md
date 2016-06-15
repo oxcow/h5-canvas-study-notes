@@ -15,6 +15,6 @@
    * [矩形 ( Rectangles )](chapter4_rectangles.md)
    * [绘制路径 ( Drawing Paths )](chapter4_drawing_path.md)
 * [Cnavas 图片处理](chapter5_cnavas_tu_pian_chu_li.md)
-   * 引入图片
+   * [引入图片](chapter5_import_image.md)
    * drawImage 方法
 
