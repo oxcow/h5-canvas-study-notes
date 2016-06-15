@@ -9,7 +9,7 @@ scale() 方法为画布的当前变换矩阵添加一个缩放变换。缩放通
 
     ctx.scale(1, -1);// 改变 Y 轴方向 180°
     
-变换后的实际坐标如图 3 中的虚线所示位置 ![scale_x](scale_x.png)
+变换后的实际坐标如图 3 中的虚线所示位置 ![scale_x](/images/scale_x.png)
 
     ctx.scale(1, 0.5);//Y 轴实际单位 0.5 倍化
     
