@@ -28,4 +28,5 @@
    * 色彩设置 ( Color )
    * 透明度设置 ( Transparency )
    * 线型 ( Line Styles )
+   * 渐变 ( Gradients )
 
