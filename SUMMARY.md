@@ -24,4 +24,5 @@
    * [引入图片](chapter5_import_image.md)
    * [drawImage 方法](chapter5_drawimage.md)
    * [示例代码](chapter5_demo.md)
+* Canvas 颜色、 线型
 
