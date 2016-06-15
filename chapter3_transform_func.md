@@ -4,7 +4,7 @@
     transform(m11,m12,m21,m22,dx,dy)
     setTransform(m11,m12,m21,m22,dx,dy)
     
-transform(m11,m12,m21,m22,dx,dy) 是对当前坐标系进行矩阵变换。变换规则可以是
+`transform(m11,m12,m21,m22,dx,dy)` 是对当前坐标系进行矩阵变换。变换规则可以是
 将变换前的坐标空间的原点移动至(dy,dy)处，同新坐标系下的点的位置需要通过下属方法来
 获取。
 x
