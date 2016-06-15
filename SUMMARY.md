@@ -23,5 +23,5 @@
 * [Cnavas 图片处理](chapter5_cnavas_tu_pian_chu_li.md)
    * [引入图片](chapter5_import_image.md)
    * [drawImage 方法](chapter5_drawimage.md)
-   * 示例代码
+   * [示例代码](chapter5_demo.md)
 
