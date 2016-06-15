@@ -30,4 +30,5 @@
    * 线型 ( Line Styles )
    * 渐变 ( Gradients )
    * 图案 ( Patterns )
+   * 阴影 ( Shadows )
 
