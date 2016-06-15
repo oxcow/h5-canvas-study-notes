@@ -25,7 +25,7 @@
    * [drawImage 方法](chapter5_drawimage.md)
    * [示例代码](chapter5_demo.md)
 * Canvas 颜色、 线型
-   * 色彩设置 ( Color )
+   * [色彩设置 ( Color )](chapter6_color_set.md)
    * 透明度设置 ( Transparency )
    * 线型 ( Line Styles )
    * 渐变 ( Gradients )
