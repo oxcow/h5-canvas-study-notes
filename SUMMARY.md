@@ -30,7 +30,7 @@
    * [线型 ( Line Styles )](chapter6_line_styles.md)
    * [渐变 ( Gradients )](chapter6_gradients.md)
    * [图案 ( Patterns )](chapter6_patterns.md)
-   * 阴影 ( Shadows )
+   * [阴影 ( Shadows )](chapter6_shadows.md)
 * Canvas 文本
    * 文本属性
    * 文本方法
