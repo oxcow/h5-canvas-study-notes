@@ -10,4 +10,5 @@
    * [scale 方法（缩放）](chapter3_scale_func.md)
    * rotate 方法（旋转）
    * transform 方法（变形）
+   * 示例代码
 
