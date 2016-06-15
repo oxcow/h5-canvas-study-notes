@@ -7,5 +7,5 @@
    * [restore方法](chapter2_restore_func.md)
 * [Canvas 坐标系](chapter3_canvas_zuo_biao_xi.md)
    * [translate 方法（移动）](chapter3_translate_func.md)
-   * scale 方法（缩放）
+   * [scale 方法（缩放）](chapter3_scale_func.md)
 
