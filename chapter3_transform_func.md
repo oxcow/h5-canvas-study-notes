@@ -124,4 +124,4 @@ $$\begin{bmatrix} x\\y \end{bmatrix} =  \begin{bmatrix}x&m11&m12\\y&m21&m22 \end
         ctx.restore();
     }
     
-效果图：![trans6](trans6.png)
+效果图：![trans6](/images/trans6.png)
