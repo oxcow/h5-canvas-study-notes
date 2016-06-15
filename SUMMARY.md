@@ -26,4 +26,5 @@
    * [示例代码](chapter5_demo.md)
 * Canvas 颜色、 线型
    * 色彩设置 ( Color )
+   * 透明度设置 ( Transparency )
 
