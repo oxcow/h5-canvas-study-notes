@@ -1,5 +1,5 @@
 {
-    "plugins": ["disqus","ketax"],
+    "plugins": ["disqus","katex","splitter"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "oxcow"
