@@ -33,6 +33,6 @@
    * [阴影 ( Shadows )](chapter6_shadows.md)
 * Canvas 文本
    * [文本属性](chapter7_text_attr.md)
-   * 文本方法
+   * [文本方法](chapter7_text_func.md)
    * 示例代码
 
