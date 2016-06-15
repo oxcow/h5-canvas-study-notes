@@ -28,5 +28,4 @@
    * 色彩设置 ( Color )
    * 透明度设置 ( Transparency )
    * 线型 ( Line Styles )
-   * lineWidth 属性（ 线宽）
 
