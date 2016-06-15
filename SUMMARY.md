@@ -27,7 +27,7 @@
 * Canvas 颜色、 线型
    * [色彩设置 ( Color )](chapter6_color_set.md)
    * [透明度设置 ( Transparency )](chapter6_transparency.md)
-   * 线型 ( Line Styles )
+   * [线型 ( Line Styles )](chapter6_line_styles.md)
    * 渐变 ( Gradients )
    * 图案 ( Patterns )
    * 阴影 ( Shadows )
