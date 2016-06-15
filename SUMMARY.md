@@ -29,7 +29,7 @@
    * [透明度设置 ( Transparency )](chapter6_transparency.md)
    * [线型 ( Line Styles )](chapter6_line_styles.md)
    * [渐变 ( Gradients )](chapter6_gradients.md)
-   * 图案 ( Patterns )
+   * [图案 ( Patterns )](chapter6_patterns.md)
    * 阴影 ( Shadows )
 * Canvas 文本
    * 文本属性
