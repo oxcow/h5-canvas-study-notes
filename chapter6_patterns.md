@@ -21,3 +21,5 @@
     }
     
 效果图：
+
+![image patterns demo](/images/patterns_demo.png)
