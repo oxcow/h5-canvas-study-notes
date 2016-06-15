@@ -18,6 +18,7 @@
        * [lineTo方法](chapter4_lineto_func.md)
        * [arc方法](chapter4_arc_func.md)
        * [二次方曲线和贝塞尔曲线 ( Bezier and quadratic curves)](chapter4_bezier_and_quadratic_curves.md)
+       * rect方法
 * [Cnavas 图片处理](chapter5_cnavas_tu_pian_chu_li.md)
    * [引入图片](chapter5_import_image.md)
    * [drawImage 方法](chapter5_drawimage.md)
