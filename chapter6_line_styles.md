@@ -113,3 +113,5 @@ miterLimit **默认值是 0**。
     ctxd.stroke();
     
 效果图：
+
+![lineJoin miter limit demo](/images/lineJoin_attr_miterlimit_demo.png)
