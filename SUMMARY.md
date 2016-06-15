@@ -6,4 +6,5 @@
    * [save方法](chapter2_save_func.md)
    * [restore方法](chapter2_restore_func.md)
 * [Canvas 坐标系](chapter3_canvas_zuo_biao_xi.md)
+   * translate 方法（移动）
 
