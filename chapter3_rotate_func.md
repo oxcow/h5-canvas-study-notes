@@ -14,4 +14,4 @@
 
 变换后的实际坐标如图中的虚线所示位置 
 
-![rotate](rotate.png)
+![rotate](/images/rotate.png)
