@@ -9,6 +9,6 @@
    * [translate 方法（移动）](chapter3_translate_func.md)
    * [scale 方法（缩放）](chapter3_scale_func.md)
    * [rotate 方法（旋转）](chapter3_rotate_func.md)
-   * transform 方法（变形）
+   * [transform 方法（变形）](chapter3_transform_func.md)
    * 示例代码
 
