@@ -31,4 +31,5 @@
    * 渐变 ( Gradients )
    * 图案 ( Patterns )
    * 阴影 ( Shadows )
+* Canvas 文本
 
