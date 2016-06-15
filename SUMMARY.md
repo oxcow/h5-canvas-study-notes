@@ -1,5 +1,5 @@
 # Summary
 
 * [简介](README.md)
-* [First Chapter](chapter1.md)
+* [Canvas 声明与获取](chapter1.md)
 
