@@ -32,7 +32,7 @@
    * [图案 ( Patterns )](chapter6_patterns.md)
    * [阴影 ( Shadows )](chapter6_shadows.md)
 * Canvas 文本
-   * 文本属性
+   * [文本属性](chapter7_text_attr.md)
    * 文本方法
    * 示例代码
 
