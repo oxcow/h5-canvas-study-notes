@@ -14,4 +14,5 @@
 * Canvas 绘制图形
    * 矩形 ( Rectangles )
    * 绘制路径 ( Drawing Paths )
+* Cnavas 图片处理
 
