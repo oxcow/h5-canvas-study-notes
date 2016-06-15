@@ -2,4 +2,4 @@
 
 HTML5:Canvas 默认坐标系如下：
 
-![cooddefault](cood_default.png)
+![cood_default](/images/cood_default.png)
