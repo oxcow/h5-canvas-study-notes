@@ -35,4 +35,5 @@
    * [文本属性](chapter7_text_attr.md)
    * [文本方法](chapter7_text_func.md)
    * [示例代码](chapter7_text_demo.md)
+* 组合 ( Comositing )
 
