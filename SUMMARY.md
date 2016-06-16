@@ -38,7 +38,7 @@
 * 组合 ( Comositing )
    * [组合方式](chapter8_comositing.md)
    * [裁切路径 ( Clipping paths )](chapter8_clipping_paths.md)
-* 基本动画
+* [基本动画](chapter9_carton_base.md)
    * 开始动画
    * 暂停动画
    * 示例代码
