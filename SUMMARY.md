@@ -41,5 +41,5 @@
 * [基本动画](chapter9_carton_base.md)
    * [开始动画](chapter9_carton_start.md)
    * [暂停动画](chapter9_carton_stop.md)
-   * 示例代码
+   * [示例代码](chapter9_carton_demo.md)
 
